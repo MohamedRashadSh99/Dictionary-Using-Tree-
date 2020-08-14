@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597425944 source:c:\users\ram\desktop\dictionary_tree\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
